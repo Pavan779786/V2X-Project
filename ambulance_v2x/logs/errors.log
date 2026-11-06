@@ -1,0 +1,4 @@
+{"timestamp": "2026-11-06T05:45:58.636026+00:00", "level": "WARNING", "logger": "v2x.orchestrator", "module": "main", "function": "_denm_broadcast_loop", "line": 239, "message": "EMERGENCY ACTIVATED: Triggering priority DENM dissemination!"}
+{"timestamp": "2026-11-06T05:47:24.376103+00:00", "level": "WARNING", "logger": "v2x.orchestrator", "module": "main", "function": "_denm_broadcast_loop", "line": 239, "message": "EMERGENCY ACTIVATED: Triggering priority DENM dissemination!"}
+{"timestamp": "2026-11-06T05:48:20.769152+00:00", "level": "WARNING", "logger": "v2x.orchestrator", "module": "main", "function": "_denm_broadcast_loop", "line": 239, "message": "EMERGENCY ACTIVATED: Triggering priority DENM dissemination!"}
+{"timestamp": "2026-11-06T05:54:00.633991+00:00", "level": "WARNING", "logger": "v2x.orchestrator", "module": "main", "function": "_denm_broadcast_loop", "line": 239, "message": "EMERGENCY ACTIVATED: Triggering priority DENM dissemination!"}

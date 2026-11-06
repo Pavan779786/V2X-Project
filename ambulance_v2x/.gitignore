@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+ambulance_v2x/logs/*.log
+.env
+.env.*.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+ambulance_v2x/logs/*.log
+.env
+.env.*
