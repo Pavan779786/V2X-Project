@@ -13,3 +13,4 @@ __pycache__/
 ambulance_v2x/logs/*.log
 .env
 .env.*
+logs/*.log
